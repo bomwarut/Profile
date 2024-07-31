@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web Developer.
 ---------------------------------------------
 
-I am Front-end Web Developer Intern complete congratulation on IT, Best Skill is Designing and creating Ui Depend on Prototype.
+I am software developer complete congratulation on IT, Best Skill is Designing and creating Ui Depend on Prototype.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [warutjantasri@gmail.com](mailto:warutjantasri@gmail.com)
-* 🧠  I'm learning Angular, CodeIgniter, Ionic
+* 🧠  I'm learning Angular, CodeIgniter, Ionic, React, c#, .Net
 * 🤝  I'm open to collaborating on Any Project.
-* ⚡  Just Nobody that want to work quick.
 
 ### Skills
 
